@@ -2,4 +2,5 @@
   "compilerOptions": {
     "jsx": "preserve",
   },
+  "include": ["./css-modules.d.ts"]
 }
